@@ -14,12 +14,12 @@ timezone: 'Asia/Shanghai'
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 夕阳西下 # the main title
+title: 浮生一日, 蜉蝣一世 # the main title
 
 tagline: 观察 & 理解 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  枯藤老树昏鸦, 小桥流水人家.
+  欲远集而无所止兮, 聊浮游以逍遥.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
